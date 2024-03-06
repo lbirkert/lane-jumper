@@ -1,0 +1,16 @@
+{
+  "name": "lane-jumper",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "build": "vite build --base=./",
+    "dev": "vite dev"
+  },
+  "devDependencies": {
+    "vite": "^5.1.5"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "license": "MIT"
+}
